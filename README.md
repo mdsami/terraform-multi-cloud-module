@@ -3,7 +3,8 @@
 
 ![Solution Overview](/tf.jpg)
 
-> Terraform module for multi-cloud infrastructure (EKS/GKE)
+
+## Terraform module for multi-cloud infrastructure (EKS/GKE)
 
 The goal here is to provision multi-cloud infrastructure using Kubernetes services from different cloud providers (AWS, GCP) that could bring forth several advantages including high availability, optimal performance and increased flexibility.
 
